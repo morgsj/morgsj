@@ -1,0 +1,3 @@
+- 🎓󠁧󠁢󠁳󠁣󠁴󠁿 Hi, I’m Morgan Jones, a student of Mathematics & Computer Science at the University of St Andrews. 
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I’m interested in efficient problem solving, algorithms and data structures.
+- 🐢 I’m currently deepening my knowledge on developing for macOS and iOS, alongside my university studies.
